@@ -1,0 +1,1 @@
+Nessus-automation-scan Deletes any existing scan files from the local dir Search in the policies and finds a policy's uuid Creates a new scan Load a new scan Checks if test is finished Exports result file in csv extension Downloads result to the local dir Analyses the result Deletes scan from Nessus tool Email sent to the user email account - to pre-set SMTP required
